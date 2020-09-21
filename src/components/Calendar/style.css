@@ -1,0 +1,21 @@
+.calendar {
+  width: 500px;
+}
+.calendar-navi {
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.calendar-month .weeky-day {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calendar-month .weeky-day div {
+  flex: 1;
+  text-align: center;
+}
+.calendar-month .month-day {
+}

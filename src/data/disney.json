@@ -1,0 +1,399 @@
+{
+  "resultCode": "1000",
+  "resultMsg": "操作成功",
+  "evf": "1000",
+  "fam": "操作成功",
+  "tn": "930pvLdo",
+  "data": {
+    "ticketProductName": "迪士尼乐园1日票亲子票（1大1小）",
+    "title": "上海迪士尼乐园1日亲子票（1大1小）",
+    "maxPrice": 102800,
+    "minPrice": 102800,
+    "productInstructions": null,
+    "reserveInstructions": null,
+    "retreatRule": null,
+    "otherInstructions": null,
+    "mainPicture": "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2019_11_26/1574731436292.jpg",
+    "mainPictureList": [
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2019_11_26/1574731436292.jpg"
+    ],
+    "detailPicture": [
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2020_5_18/1589774241421.png",
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2019_10_29/1572330860562.png",
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2020_5_8/1588902407406.png",
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2019_10_29/1572330924882.jpg",
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2020_6_22/1592819033157.png",
+      "//tc2.yqbimg.net/cms_jfmall/goodsimg/cms/file/2019_10_29/1572330940082.jpg"
+    ],
+    "parentCategoryCode": "01",
+    "parentCategoryName": "通票",
+    "subCategoryCode": "00",
+    "subCategoryName": "套票",
+    "salesVolume": 305,
+    "ticketCountLimit": 2,
+    "maxOriginalPrice": 102800,
+    "minOriginalPrice": 102800,
+    "disneyTicketSpecList": [
+      {
+        "visitDate": "2020-07-22",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-23",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-24",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-25",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-26",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-27",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-28",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-29",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-30",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-07-31",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-01",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-02",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-03",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-04",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-05",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-06",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-07",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-08",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-09",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-10",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-11",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-12",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-13",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-14",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-15",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-16",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-17",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-18",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-19",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      },
+      {
+        "visitDate": "2020-08-20",
+        "disneyTicketSpecBeans": [
+          {
+            "salesPrice": -1,
+            "unionProductId": "BZ-GPRO2019042200000000000008",
+            "ticketSpecType": "GPRO2019042200000000000008",
+            "ticketSpecDesc": "迪士尼乐园1日票亲子票（1大1小）",
+            "originalPrice": 102800
+          }
+        ]
+      }
+    ]
+  }
+}
